@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Xpenzora - Delete Account</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px auto;
+      max-width: 800px;
+      padding: 0 15px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #d62828;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    section {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Delete Your Xpenzora Account</h1>
+
+  <section>
+    <h2>1. How to Delete Your Account</h2>
+    <p>You can permanently delete your account and all associated data directly from within the Xpenzora app by following these steps:</p>
+    <ol>
+      <li>Login to your account and go to the <strong>Home Screen</strong>.</li>
+      <li>Tap on the <strong>Delete Account</strong> button.</li>
+      <li>On the Deletion Screen:
+        <ul>
+          <li>Enter your account password to confirm your identity.</li>
+          <li>Type <strong>DELETE</strong> into the confirmation text field.</li>
+          <li>Press the <strong>Delete</strong> button.</li>
+        </ul>
+      </li>
+      <li>Your account and all associated data will be permanently removed from our servers.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>2. If You Cannot Access the App</h2>
+    <p>If you are unable to log in or access the Xpenzora app but still want your account deleted, please contact us using your registered email address:</p>
+    <p><strong>Email:</strong> <a href="mailto:support@xpenzora.com">support@xpenzora.com</a></p>
+    <p>We will verify your request and process the deletion within 7 days.</p>
+  </section>
+
+  <section>
+    <h2>3. Important Notes</h2>
+    <ul>
+      <li>Deleting your account is <strong>permanent</strong> and cannot be undone.</li>
+      <li>All business data, transactions, images, and team information linked to your account will also be deleted.</li>
+      <li>If you reinstall the app or sign up again, you will need to create a new account.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Xpenzora. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
